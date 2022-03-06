@@ -1,3 +1,8 @@
+This was a code along tutorial with Mikaela Grundin from Spotify during the Hyper Island "If This Then That" module. Mikaela walked us through using the Spotify API to create a web app that generates a visual grid based on your personal playlist, imported using the Spotify API. Her original notes can be found below.
+
+
+
+
 # Exercise
 
 This is an exercise in making a simple playlist visualisation using the Spotify APIs.
